@@ -2,16 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a9c2848-0864-419d-ba1c-a0669c6ee00f" name="Default" comment="тестовые задания">
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task09/task0923/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task09/task0927/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task09/task0928/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task09/task0929/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task09/task0930/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task10/task1001/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task10/task1002/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task10/task1008/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task10/task1009/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task10/task1010/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task10/task1011/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task10/task1013/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task10/task1014/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task10/task1015/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task10/task1017/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task10/task1018/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task13/task1301/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task13/task1302/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task13/task1303/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task13/task1304/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task13/task1305/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task13/task1306/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task13/task1307/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task13/task1308/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task13/task1309/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task13/task1310/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task09/task0926/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task09/task0926/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +81,7 @@
       <recent name="D:\intellijSandbox\JavaRushTasks" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Solution (3)">
+  <component name="RunManager" selected="Application.Solution (1)">
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
       <module name="" />
       <option name="TESTING_TYPE" value="0" />
@@ -301,26 +311,12 @@
       <method />
     </configuration>
     <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task09.task0929.Solution" />
-      <module name="1.JavaSyntax" />
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task13.task1309.Solution" />
+      <module name="2.JavaCore" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javarush.task.task09.task0929.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task10.task1001.Solution" />
-      <module name="1.JavaSyntax" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.javarush.task.task10.task1001.*" />
+          <option name="PATTERN" value="com.javarush.task.task13.task1309.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -329,12 +325,26 @@
       </method>
     </configuration>
     <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task10.task1002.Solution" />
-      <module name="1.JavaSyntax" />
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task13.task1305.Solution" />
+      <module name="2.JavaCore" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javarush.task.task10.task1002.*" />
+          <option name="PATTERN" value="com.javarush.task.task13.task1305.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task13.task1306.Solution" />
+      <module name="2.JavaCore" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javarush.task.task13.task1306.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -343,12 +353,12 @@
       </method>
     </configuration>
     <configuration name="Solution (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task09.task0930.Solution" />
-      <module name="1.JavaSyntax" />
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task13.task1308.Solution" />
+      <module name="2.JavaCore" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javarush.task.task09.task0930.*" />
+          <option name="PATTERN" value="com.javarush.task.task13.task1308.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -357,12 +367,12 @@
       </method>
     </configuration>
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task09.task0923.Solution" />
-      <module name="1.JavaSyntax" />
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task13.task1307.Solution" />
+      <module name="2.JavaCore" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javarush.task.task09.task0923.*" />
+          <option name="PATTERN" value="com.javarush.task.task13.task1307.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -437,11 +447,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Solution (3)" />
-        <item itemvalue="Application.Solution (2)" />
         <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.Solution (5)" />
         <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.Solution (4)" />
+        <item itemvalue="Application.Solution (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -569,7 +579,14 @@
       <option name="project" value="LOCAL" />
       <updated>1581861298322</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="тестовые задания">
+      <created>1582047115491</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1582047115491</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -612,14 +629,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="414" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578495716726" />
-    <state x="730" y="222" key="#com.intellij.ide.util.MemberChooser" timestamp="1581874444307">
+    <state x="730" y="222" key="#com.intellij.ide.util.MemberChooser" timestamp="1582657894774">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="730" y="222" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1581874444307" />
-    <state x="644" y="115" key="CommitChangelistDialog2" timestamp="1581861297318">
+    <state x="730" y="222" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1582657894774" />
+    <state x="644" y="115" key="CommitChangelistDialog2" timestamp="1582047113793">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="644" y="115" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1581861297318" />
+    <state x="644" y="115" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1582047113793" />
     <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1581265287149">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -636,38 +653,38 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="762" y="226" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1581267693329" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1582042054040">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1582658882379">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1582042054040" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1582042054040">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1582658882379" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1582658882379">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1582042054040" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1582042054039">
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1582658882379" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1582658882379">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1582042054039" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1582042054040">
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1582658882379" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1582658882379">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1582042054040" />
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1582039239222">
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1582658882379" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1582047118223">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1582039239222" />
-    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1582039239222">
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1582047118223" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1582047118223">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1582039239222" />
-    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1582039239222">
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1582047118223" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1582047118223">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1582039239222" />
-    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1582039239222">
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1582047118223" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1582047118223">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1582039239222" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1582047118223" />
     <state x="461" y="163" key="SettingsEditor" timestamp="1581874515892">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -676,10 +693,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="254" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1581861300589" />
-    <state x="655" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1582038925400">
+    <state x="655" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1582655516310">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="655" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582038925400" />
+    <state x="655" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582655516310" />
     <state x="758" y="210" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1579019071143">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
